@@ -118,10 +118,21 @@ traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
+## Sample Input:
+![image](https://github.com/user-attachments/assets/00b1d0da-8885-4c30-8836-4f14e3c49298)
 
+## Sample Output:
+![image](https://github.com/user-attachments/assets/c917efec-92ff-4e5c-9ab8-f43611d4907c)
 
+## Sample Input:
+![image](https://github.com/user-attachments/assets/aab0faf4-5ad4-47f3-aefa-9c1910ffc0ab)
 
+## Sample Output:
 
+![image](https://github.com/user-attachments/assets/f8783c4b-9c0f-4476-bd1f-bc3322822c5e)
+
+## Result:
+Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
 
 
 
